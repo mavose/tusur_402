@@ -1,0 +1,6 @@
+﻿What do you like more?
+1. php
+2. C++
+3. C#
+4. Ruby
+5. other
